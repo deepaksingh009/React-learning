@@ -1,1 +1,9 @@
+React js basically is a javascript framework devloped by facebook.React js only used for view part of the application.React js helps us to
+create rich full interface. we have a situation like some part of the html remain static and some part changes over the time.In such 
+situation react js play an important role.
+
+Feature of react js:-
+
+One-way data flow:-we can just display component/data on html.we cannot perform any modification. 
+
 
